@@ -1,14 +1,26 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "Podium para Senna",
+    "description": "Ayrton Senna levanta mais um caneco!",
+    "photoCover":"https://th.bing.com/th/id/R.6571a3aeb8b6d027ded0a5e834e83668?rik=6sIsXQsVX%2fC8zQ&pid=ImgRaw&r=0"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Última Equipe de Senna",
+    "description": "Adeus amargo e sem vitórias colocando um carro difícil na pole contra uma Benetton irregular!",
+    "photoCover":"https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-1266962.jpg?w=967"
+  },
+  {
+    "id":"3",
+    "title": "Era de Ouro de Senna",
+    "description": "Senna conquista 3 títulos, um foi roubado dele em 1989 e em 1993 conquista vice campeonato com 30 cavalos a menos!",
+    "photoCover":"https://th.bing.com/th/id/OIP.Wn59ekvbttv6wvlJkoJyZgHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id":"4",
+    "title": "Lenda Negra",
+    "description": "Surge o rei das poles, mas um motor frágil que não lhe dá titulos",
+    "photoCover":"https://th.bing.com/th/id/OIP.yP-VL3INxLxGs8Wnc8SpAQHaE7?rs=1&pid=ImgDetMain"
   }
 ]
