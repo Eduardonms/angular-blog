@@ -20,7 +20,7 @@ export const dataFake = [
   {
     "id":"4",
     "title": "Lenda Negra",
-    "description": "Surge o rei das poles, mas um motor frágil que não lhe dá titulos",
+    "description": "Surge o rei das poles, mas um motor frágil que não lhe dá titulos.",
     "photoCover":"https://th.bing.com/th/id/OIP.yP-VL3INxLxGs8Wnc8SpAQHaE7?rs=1&pid=ImgDetMain"
   }
 ]
